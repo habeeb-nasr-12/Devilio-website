@@ -98,6 +98,11 @@ header .layer p::after {
     font-size: 20px;
     color: black;
 }
+@media screen and (max-width:700px) {
+    .about-det ul li {
+        font-size: 13px;
+    }
+}
 .about-det img{
     border-radius: 10px;
     -webkit-border-radius: 10px;
