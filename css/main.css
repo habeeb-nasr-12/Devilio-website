@@ -95,7 +95,7 @@ header .layer p::after {
 
 .about-det ul li span{
     font-weight: bold;
-    font-size: 20px;
+    font-size: 16px;
     color: black;
 }
 @media screen and (max-width:700px) {
@@ -105,10 +105,10 @@ header .layer p::after {
 }
 .about-det img{
     border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
 }
 .about-des h5::after{
     position: absolute;
